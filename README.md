@@ -112,24 +112,3 @@ Una implementación moderna del clásico juego de la serpiente usando Python Fla
 [Ver instrucciones de instalación en inglés arriba](#-quick-start)
 
 ---
-
-## 🏷️ Topics for GitHub
-
-```
-topics:
-- python
-- flask
-- game
-- snake-game
-- html5-canvas
-- javascript
-- web-game
-- arcade-game
-- educational
-- frontend
-- backend
-- css3
-- responsive-design
-- glassmorphism
-- modern-ui
-```
